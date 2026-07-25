@@ -1,0 +1,9 @@
+# Credenciales — NUNCA se suben
+.env
+
+# Datos generados por el programa
+data/
+
+# Basura de Python
+__pycache__/
+*.pyc
